@@ -1,0 +1,1 @@
+servers/dolsun-1.12.2/files/resourcepacks/돌순1.zip filter=lfs diff=lfs merge=lfs -text
