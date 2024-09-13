@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "dolsun (Minecraft 1.12.2)",
     "description": "dolsun Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "https://raw.githubusercontent.com/ujull1222/dolsun/main/build/icon.png",
     "address": "dolsun12.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -17,5 +17,10 @@
   "forge": {
     "version": "14.23.5.2860"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt","servers.dat"]
+    }
+  ]
 }

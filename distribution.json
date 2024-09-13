@@ -11,7 +11,7 @@
       "id": "dolsun-1.12.2",
       "name": "dolsun (Minecraft 1.12.2)",
       "description": "dolsun Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/ujull1222/dolsun/main/build/icon.png",
       "version": "1.0.0",
       "address": "dolsun12.kro.kr",
       "minecraftVersion": "1.12.2",
@@ -446,6 +446,16 @@
           }
         },
         {
+          "id": "bre.smoothfont:smoothfont:mc1.12.2-2.1.4@jar",
+          "name": "Smooth Font",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283749,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/forgemods/required/SmoothFont-mc1.12.2-2.1.4.jar",
+            "MD5": "88403da50505c2bdb1e751486add8677"
+          }
+        },
+        {
           "id": "noppes.vc:variedcommodities:1.12.2@jar",
           "name": "Varied Commodities",
           "type": "ForgeMod",
@@ -492,7 +502,6 @@
           "artifact": {
             "size": 83,
             "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/options.txt",
-            "MD5": "73b2340c2c8d470a5402c2ef70d59dfb",
             "path": "options.txt"
           }
         },
@@ -536,7 +545,6 @@
           "artifact": {
             "size": 63,
             "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/servers.dat",
-            "MD5": "ef02c44cfb871ac6cacb45a9b91f582e",
             "path": "servers.dat"
           }
         }
