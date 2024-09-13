@@ -406,26 +406,6 @@
           }
         },
         {
-          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
-          "name": "MalisisCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1939783,
-            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/forgemods/required/malisiscore-1.12.2-6.5.1.jar",
-            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
-          }
-        },
-        {
-          "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
-          "name": "MalisisDoors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1741669,
-            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/forgemods/required/malisisdoors-1.12.2-7.3.0%20(1).jar",
-            "MD5": "6d0f129ff9a05f84add5b2209a6d0284"
-          }
-        },
-        {
           "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
           "name": "OreLib Support Mod",
           "type": "ForgeMod",
@@ -483,6 +463,16 @@
             "size": 219024,
             "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/forgemods/required/village-1.0-2.jar",
             "MD5": "430b59221fc76a67d5ae59de47253227"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.12.2-2.5.22@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8692475,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.5.22.jar",
+            "MD5": "835e8a89d6ae5c43324fb4e7b9e2c2df"
           }
         },
         {
