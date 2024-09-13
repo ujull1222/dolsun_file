@@ -406,6 +406,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
           "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
           "name": "OreLib Support Mod",
           "type": "ForgeMod",
