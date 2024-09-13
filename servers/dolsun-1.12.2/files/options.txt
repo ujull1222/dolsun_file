@@ -1,0 +1,3 @@
+version:1343
+resourcePacks:["돌순3.zip","돌순2.zip","돌순1.zip"]
+lang:ko_kr

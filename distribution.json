@@ -484,6 +484,61 @@
             "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/libraries/OptiFine_1.12.2_HD_U_F5_MOD.jar",
             "MD5": "5b41a7cb7dd8fd0d940223aa3a7721d5"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 83,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/options.txt",
+            "MD5": "73b2340c2c8d470a5402c2ef70d59dfb",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "돌순1.zip",
+          "name": "돌순1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 199250360,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/resourcepacks/%EB%8F%8C%EC%88%9C1.zip",
+            "MD5": "4db84fdd97a080537404a7dbe608c21d",
+            "path": "resourcepacks/돌순1.zip"
+          }
+        },
+        {
+          "id": "돌순2.zip",
+          "name": "돌순2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 19264165,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/resourcepacks/%EB%8F%8C%EC%88%9C2.zip",
+            "MD5": "16c0625c997b31c8658b55f9f79a33fb",
+            "path": "resourcepacks/돌순2.zip"
+          }
+        },
+        {
+          "id": "돌순3.zip",
+          "name": "돌순3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 42172148,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/resourcepacks/%EB%8F%8C%EC%88%9C3.zip",
+            "MD5": "418afd51739723d5233e9ccf7c33a131",
+            "path": "resourcepacks/돌순3.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 63,
+            "url": "https://ujull1222.github.io/dolsun_file/servers/dolsun-1.12.2/files/servers.dat",
+            "MD5": "ef02c44cfb871ac6cacb45a9b91f582e",
+            "path": "servers.dat"
+          }
         }
       ]
     }
